@@ -1,0 +1,3 @@
+[submodule "aws-fpga"]
+	path = aws-fpga
+	url = git@github.com:burritoking/aws-fpga.git
